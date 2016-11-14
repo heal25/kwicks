@@ -1,5 +1,5 @@
 {
-  "name": "kwicks",
+  "name": "jquery.kwicks",
   "version": "1.0.0",
   "description": "kwicks jquery plugin",
   "main": "jquery.kwicks.js",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/heal25/kwicks/issues"
   },
-  "homepage": "https://github.com/heal25/kwicks#readme"
+  "homepage": "https://github.com/heal25/kwicks#readme",
+  "keywords": [
+    "kwicks"
+  ]
 }
